@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Laravel-e53644?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
-**Lagi didalami**
+**Sedang didalami**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Networking-black?style=flat-square&logo=wireshark&logoColor=white" alt="Networking"/>
