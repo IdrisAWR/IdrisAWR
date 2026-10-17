@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3b82f6&vCenter=true&width=500&lines=Halo,+saya+adalah+Mahasiswa+Informatika;Berusaha+menjadi+Full-Stack+Web+%26+Mobile+Dev;Machine+Learning+Enthusiast;Suka+Tantangan+Cyber+Security" alt="Typing SVG" />
 </p>
 
+<a href=https://idrisanwarportofolio.vercell.app> Portofolio</a>
+
 <p align="left">
   <img src="https://img.shields.io/badge/status-actively%20learning-2ea44f?style=flat-square" alt="status"/>
   <img src="https://img.shields.io/badge/focus-security%20%2B%20fullstack-1d1d1d?style=flat-square" alt="focus"/>
