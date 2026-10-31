@@ -5,7 +5,7 @@
 
 <p align="left">A snippet of my portfolio:</p>
 <a href=https://idrisanwarportofolio.vercel.app/> Portofolio</a>
-<br>
+</br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/status-actively%20learning-2ea44f?style=flat-square" alt="status"/>
