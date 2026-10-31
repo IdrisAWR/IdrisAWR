@@ -37,7 +37,3 @@ I'm an Informatics student who enjoys building things across the stack, from web
   <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="Networking"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
-
-## Portfolio
-
-A snapshot of my work lives here: **[idrisanwarportofolio.vercel.app](https://idrisanwarportofolio.vercel.app/)**
